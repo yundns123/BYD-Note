@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+Sitemap: https://app-9dpn3ot2cvep-vitesandbox.miaoda.cn/sitemap.xml
